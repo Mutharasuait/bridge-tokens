@@ -1,32 +1,30 @@
-[
-    {
-        token: '0xCE1E0FEC1cD3507D38E7F040b0AC03cFE7e836bb',
-        symbol: 'WWW',
-        chain: '97'
-    },
-    {
-        token: '0xdc552B4a6beeEa6b60bC88eF8918dD77a469C7Ea',
-        symbol: 'XXX',
-        chain: '97'
-    },
-    {
-        token: '0x8c46F1c230c4980e158153CB17c2C363bad1f0D9',
-        symbol: 'YYY',
-        chain: '97'
-    },
-    {
-        token: '0xC27E2FA719aaB60C3c28cc83beebE74682C0f04E',
-        symbol: 'WWW',
-        chain: '11155111'
-    },
-    {
-        token: '0x9fF82D8005411F4035eED5d838dc8D4aA677ea48',
-        symbol: 'XXX',
-        chain: '11155111'
-    },
-    {
-        token: '0xD890c5259d1A83E4b703Ba347a5BC097D10F604c',
-        symbol: 'YYY',
-        chain: '11155111'
-    }
-]
+{
+    token: '0xCE1E0FEC1cD3507D38E7F040b0AC03cFE7e836bb',
+    symbol: 'WWW',
+    chain: '97'
+},
+{
+    token: '0xdc552B4a6beeEa6b60bC88eF8918dD77a469C7Ea',
+    symbol: 'XXX',
+    chain: '97'
+},
+{
+    token: '0x8c46F1c230c4980e158153CB17c2C363bad1f0D9',
+    symbol: 'YYY',
+    chain: '97'
+},
+{
+    token: '0xC27E2FA719aaB60C3c28cc83beebE74682C0f04E',
+    symbol: 'WWW',
+    chain: '11155111'
+},
+{
+    token: '0x9fF82D8005411F4035eED5d838dc8D4aA677ea48',
+    symbol: 'XXX',
+    chain: '11155111'
+},
+{
+    token: '0xD890c5259d1A83E4b703Ba347a5BC097D10F604c',
+    symbol: 'YYY',
+    chain: '11155111'
+}
