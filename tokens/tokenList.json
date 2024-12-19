@@ -1,4 +1,4 @@
-[
+{
     {
         "token": "0xCE1E0FEC1cD3507D38E7F040b0AC03cFE7e836bb",
         "symbol": "WWW",
@@ -29,4 +29,4 @@
         "symbol": "YYY",
         "chain": "11155111"
     }
-]
+}
